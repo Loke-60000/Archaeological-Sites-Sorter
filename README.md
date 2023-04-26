@@ -35,8 +35,8 @@ pip install openpyxl pyinstaller
 
 You can also run the exe files in the output folder to use the scripts without using Python
 
-1. Place the `data.txt` file in the same directory as the script.
-2. Run one of the exe files in the same directory as the data as the data.txt file.
+1. Place the `data.txt` file in the same directory as the exe.
+2. Run one of the exe files in the same directory as the data.
 3. the exe will sort the data and generate an Excel file in the same directory as the executable file.
 
 ## Contributing
